@@ -17,10 +17,13 @@
     
 ## Play
 
-- Comment below line if you want to play as two players
+- One Player controll: UP and DOWN arrow keys.
+- Two Player controll: 
+    - Player1 - W and S keys
+    - Player2 - UP and DOWN arrow keys.
+
+## Toggle One player to Two Players
 
     #define ONE_PLAYER 
-    
-- One Player controll: UP and DOWN arrow keys.
-- Two Player controll: Player1 - W and S keys\
-                       Player2 - UP and DOWN arrow keys.
+
+- comment above mention line for two player experience.
