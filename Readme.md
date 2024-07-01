@@ -21,6 +21,7 @@
 - Two Player control: 
     - Player1 - W and S keys
     - Player2 - UP and DOWN arrow keys.
+- ESC key for closing game.
 
 ## Toggle One player to Two Players
 
