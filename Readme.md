@@ -17,8 +17,8 @@
     
 ## Play
 
-- One Player controll: UP and DOWN arrow keys.
-- Two Player controll: 
+- One Player control: UP and DOWN arrow keys.
+- Two Player control: 
     - Player1 - W and S keys
     - Player2 - UP and DOWN arrow keys.
 
